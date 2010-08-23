@@ -68,4 +68,4 @@ Widget
 When you have activated the plugin also activate a widget Get the name of Joomla go menu Menu Appearance -> Widgets and drag Joomla Menu Get the widget panel active.
 
 Template
-You can also include the menu with the template for this you have to add in the template code <?Php get_joomla_menu ('Title Menu');?> 
+You can also include the menu with the template for this you have to add in the template code <?Php get_menu_joomla ('Title Menu');?> 
