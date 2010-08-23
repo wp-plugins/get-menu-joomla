@@ -1,12 +1,12 @@
-=== Plugin Name ===
+=== Get Menu Joomla ===
 Contributors: Roger Torres
 Donate link: http://cuscosoft.com/get-joomla-menu/
-Tags: joomla, cms, menu, joomla menu, menu joomla 
+Tags: joomla, cms, menu, joomla menu, menu joomla, get menu joomla 
 Requires at least: 2.0.2
 Tested up to: 3.0
 Stable tag: 1
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Get Joomla menu, you get a menu and displays it in joomla wordpress plugin is specially designed for those who use wordpress joomla and in addition,
 
 == Description ==
 
